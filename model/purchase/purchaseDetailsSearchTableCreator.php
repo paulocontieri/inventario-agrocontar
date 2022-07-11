@@ -13,8 +13,8 @@
 	$output = '<table id="purchaseDetailsTable" class="table table-sm table-striped table-bordered table-hover" style="width:100%">
 				<thead>
 					<tr>
-						<th>Purchase ID</th>
-						<th>Item Number</th>
+						<th>ID</th>
+						<th>Etiqueta do patrimônio</th>
 						<th>Purchase Date</th>
 						<th>Item Name</th>
 						<th>Unit Price</th>
